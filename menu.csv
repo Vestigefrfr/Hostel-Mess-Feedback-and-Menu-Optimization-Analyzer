@@ -1,0 +1,22 @@
+day,meal,dish,category
+Monday,Breakfast,Poha,Indian
+Monday,Lunch,Rajma Rice,Indian
+Monday,Dinner,Paneer Butter Masala,Indian
+Tuesday,Breakfast,Aloo Paratha,Indian
+Tuesday,Lunch,Dal Tadka & Roti,Indian
+Tuesday,Dinner,Egg Curry,Non-Veg
+Wednesday,Breakfast,Idli Sambar,South Indian
+Wednesday,Lunch,Chole Bhature,Indian
+Wednesday,Dinner,Mixed Veg Curry,Indian
+Thursday,Breakfast,Poha,Indian
+Thursday,Lunch,Dal Tadka & Roti,Indian
+Thursday,Dinner,Veg Fried Rice,Chinese
+Friday,Breakfast,Upma,South Indian
+Friday,Lunch,Kadhi Chawal,Indian
+Friday,Dinner,Chicken Curry,Non-Veg
+Saturday,Breakfast,Aloo Paratha,Indian
+Saturday,Lunch,Veg Biryani,Indian
+Saturday,Dinner,Mixed Veg Curry,Indian
+Sunday,Breakfast,Masala Dosa,South Indian
+Sunday,Lunch,Pulao & Raita,Indian
+Sunday,Dinner,Poha,Indian
