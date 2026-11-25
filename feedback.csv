@@ -1,0 +1,101 @@
+date,student_id,meal,dish,rating,review
+2026-10-25,S26CSEU1560,Breakfast,Masala Dosa,5,
+2026-10-25,S26CSEU1561,Breakfast,Masala Dosa,4,
+2026-10-25,S26CSEU1562,Breakfast,Masala Dosa,4,
+2026-10-25,S26CSEU1563,Breakfast,Masala Dosa,4,
+2026-10-25,S26CSEU1564,Lunch,Pulao & Raita,3,bland
+2026-10-25,S26CSEU1565,Lunch,Pulao & Raita,4,
+2026-10-25,S26CSEU1566,Lunch,Pulao & Raita,4,
+2026-10-25,S26CSEU1567,Lunch,Pulao & Raita,4,
+2026-10-25,S26CSEU1568,Lunch,Pulao & Raita,4,
+2026-10-25,S26CSEU1569,Dinner,Poha,3,bland
+2026-10-25,S26CSEU1570,Dinner,Poha,2,bland
+2026-10-25,S26CSEU1571,Dinner,Poha,2,bland
+2026-10-25,S26CSEU1572,Dinner,Poha,2,cold
+2026-10-25,S26CSEU1573,Dinner,Poha,3,bland
+2026-10-24,S26CSEU1574,Breakfast,Aloo Paratha,4,
+2026-10-24,S26CSEU1575,Breakfast,Aloo Paratha,4,
+2026-10-24,S26CSEU1576,Breakfast,Aloo Paratha,4,
+2026-10-24,S26CSEU1577,Breakfast,Aloo Paratha,3,
+2026-10-24,S26CSEU1578,Breakfast,Aloo Paratha,3,
+2026-10-24,S26CSEU1579,Lunch,Veg Biryani,4,
+2026-10-24,S26CSEU1580,Lunch,Veg Biryani,3,
+2026-10-24,S26CSEU1581,Lunch,Veg Biryani,4,
+2026-10-24,S26CSEU1582,Lunch,Veg Biryani,4,
+2026-10-24,S26CSEU1583,Dinner,Mixed Veg Curry,1,stale
+2026-10-24,S26CSEU1584,Dinner,Mixed Veg Curry,1,stale
+2026-10-24,S26CSEU1585,Dinner,Mixed Veg Curry,2,oily
+2026-10-23,S26CSEU1586,Breakfast,Upma,2,bland
+2026-10-23,S26CSEU1587,Breakfast,Upma,3,cold
+2026-10-23,S26CSEU1588,Breakfast,Upma,4,
+2026-10-23,S26CSEU1589,Breakfast,Upma,3,cold
+2026-10-23,S26CSEU1590,Breakfast,Upma,2,cold
+2026-10-23,S26CSEU1591,Lunch,Kadhi Chawal,2,salty
+2026-10-23,S26CSEU1592,Lunch,Kadhi Chawal,3,salty
+2026-10-23,S26CSEU1593,Lunch,Kadhi Chawal,3,salty
+2026-10-23,S26CSEU1594,Dinner,Chicken Curry,4,
+2026-10-23,S26CSEU1595,Dinner,Chicken Curry,5,
+2026-10-23,S26CSEU1596,Dinner,Chicken Curry,4,
+2026-10-23,S26CSEU1597,Dinner,Chicken Curry,5,
+2026-10-23,S26CSEU1598,Dinner,Chicken Curry,5,
+2026-10-22,S26CSEU1599,Breakfast,Poha,3,cold
+2026-10-22,S26CSEU1600,Breakfast,Poha,3,bland
+2026-10-22,S26CSEU1601,Breakfast,Poha,2,cold
+2026-10-22,S26CSEU1602,Lunch,Dal Tadka & Roti,4,
+2026-10-22,S26CSEU1603,Lunch,Dal Tadka & Roti,2,oily
+2026-10-22,S26CSEU1604,Lunch,Dal Tadka & Roti,2,oily
+2026-10-22,S26CSEU1605,Lunch,Dal Tadka & Roti,3,salty
+2026-10-22,S26CSEU1606,Dinner,Veg Fried Rice,4,
+2026-10-22,S26CSEU1607,Dinner,Veg Fried Rice,4,
+2026-10-22,S26CSEU1608,Dinner,Veg Fried Rice,4,
+2026-10-21,S26CSEU1609,Breakfast,Idli Sambar,3,
+2026-10-21,S26CSEU1610,Breakfast,Idli Sambar,3,
+2026-10-21,S26CSEU1611,Breakfast,Idli Sambar,4,
+2026-10-21,S26CSEU1612,Lunch,Chole Bhature,4,
+2026-10-21,S26CSEU1613,Lunch,Chole Bhature,4,
+2026-10-21,S26CSEU1614,Lunch,Chole Bhature,4,
+2026-10-21,S26CSEU1615,Dinner,Mixed Veg Curry,2,stale
+2026-10-21,S26CSEU1616,Dinner,Mixed Veg Curry,2,stale
+2026-10-21,S26CSEU1617,Dinner,Mixed Veg Curry,2,oily
+2026-10-21,S26CSEU1618,Dinner,Mixed Veg Curry,3,oily
+2026-10-21,S26CSEU1619,Dinner,Mixed Veg Curry,2,oily
+2026-10-20,S26CSEU1620,Breakfast,Aloo Paratha,3,
+2026-10-20,S26CSEU1621,Breakfast,Aloo Paratha,4,
+2026-10-20,S26CSEU1622,Breakfast,Aloo Paratha,5,
+2026-10-20,S26CSEU1623,Lunch,Dal Tadka & Roti,3,salty
+2026-10-20,S26CSEU1624,Lunch,Dal Tadka & Roti,3,oily
+2026-10-20,S26CSEU1625,Lunch,Dal Tadka & Roti,4,
+2026-10-20,S26CSEU1626,Lunch,Dal Tadka & Roti,4,
+2026-10-20,S26CSEU1627,Dinner,Egg Curry,4,
+2026-10-20,S26CSEU1628,Dinner,Egg Curry,3,
+2026-10-20,S26CSEU1629,Dinner,Egg Curry,4,
+2026-10-20,S26CSEU1630,Dinner,Egg Curry,4,
+2026-10-19,S26CSEU1631,Breakfast,Poha,2,bland
+2026-10-19,S26CSEU1632,Breakfast,Poha,3,bland
+2026-10-19,S26CSEU1633,Breakfast,Poha,2,bland
+2026-10-19,S26CSEU1634,Lunch,Rajma Rice,4,
+2026-10-19,S26CSEU1635,Lunch,Rajma Rice,5,
+2026-10-19,S26CSEU1636,Lunch,Rajma Rice,5,
+2026-10-19,S26CSEU1637,Lunch,Rajma Rice,3,
+2026-10-19,S26CSEU1638,Lunch,Rajma Rice,4,
+2026-10-19,S26CSEU1639,Dinner,Paneer Butter Masala,5,
+2026-10-19,S26CSEU1640,Dinner,Paneer Butter Masala,4,
+2026-10-19,S26CSEU1641,Dinner,Paneer Butter Masala,4,
+2026-10-19,S26CSEU1642,Dinner,Paneer Butter Masala,5,
+2026-10-19,S26CSEU1643,Dinner,Paneer Butter Masala,3,
+2026-10-18,S26CSEU1644,Breakfast,Masala Dosa,4,
+2026-10-18,S26CSEU1645,Breakfast,Masala Dosa,4,
+2026-10-18,S26CSEU1646,Breakfast,Masala Dosa,4,
+2026-10-18,S26CSEU1647,Breakfast,Masala Dosa,2,
+2026-10-18,S26CSEU1648,Breakfast,Masala Dosa,4,
+2026-10-18,S26CSEU1649,Lunch,Pulao & Raita,3,bland
+2026-10-18,S26CSEU1650,Lunch,Pulao & Raita,5,
+2026-10-18,S26CSEU1651,Lunch,Pulao & Raita,3,bland
+2026-10-18,S26CSEU1652,Lunch,Pulao & Raita,4,
+2026-10-18,S26CSEU1653,Dinner,Poha,3,cold
+2026-10-18,S26CSEU1654,Dinner,Poha,3,bland
+2026-10-18,S26CSEU1655,Dinner,Poha,2,cold
+2026-10-17,S26CSEU1656,Breakfast,Aloo Paratha,5,
+2026-10-17,S26CSEU1657,Breakfast,Aloo Paratha,5,
+2026-10-17,S26CSEU1658,Breakfast,Aloo Paratha,4,
+2026-11-25,S26CSEU2008,Lunch,Chole Bhature,4,
